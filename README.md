@@ -1,1 +1,1 @@
-[google](google.com)
+[Go to Google](https://www.google.com)
